@@ -12,7 +12,6 @@
 		3F0109111FE9EF6900ABEA96 /* Description.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0109101FE9EF6900ABEA96 /* Description.swift */; };
 		3F0109131FE9EF7400ABEA96 /* Stats.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0109121FE9EF7400ABEA96 /* Stats.swift */; };
 		3F0109151FE9EF8200ABEA96 /* Powers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0109141FE9EF8200ABEA96 /* Powers.swift */; };
-		3F3DB3ED20045E9A007D5F4B /* Spring in Resources */ = {isa = PBXBuildFile; fileRef = 3F3DB3EC20045E9A007D5F4B /* Spring */; };
 		3F7596011FCCC580006CD0C1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F7596001FCCC580006CD0C1 /* AppDelegate.swift */; };
 		3F7596031FCCC580006CD0C1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F7596021FCCC580006CD0C1 /* ViewController.swift */; };
 		3F7596061FCCC580006CD0C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F7596041FCCC580006CD0C1 /* Main.storyboard */; };
@@ -29,7 +28,6 @@
 		3F0109101FE9EF6900ABEA96 /* Description.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Description.swift; sourceTree = "<group>"; };
 		3F0109121FE9EF7400ABEA96 /* Stats.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stats.swift; sourceTree = "<group>"; };
 		3F0109141FE9EF8200ABEA96 /* Powers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Powers.swift; sourceTree = "<group>"; };
-		3F3DB3EC20045E9A007D5F4B /* Spring */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Spring; path = "../../Student Files/6 Decorate the App/8-Data/ShotsApp/font/Spring"; sourceTree = "<group>"; };
 		3F7595FD1FCCC580006CD0C1 /* Cloak.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cloak.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F7596001FCCC580006CD0C1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3F7596021FCCC580006CD0C1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -72,7 +70,6 @@
 		3F7595FF1FCCC580006CD0C1 /* Cloak */ = {
 			isa = PBXGroup;
 			children = (
-				3F3DB3EC20045E9A007D5F4B /* Spring */,
 				3F7596001FCCC580006CD0C1 /* AppDelegate.swift */,
 				3F7596021FCCC580006CD0C1 /* ViewController.swift */,
 				3FF9ACB920229CC300E9C711 /* CharacterTabBarViewController.swift */,
@@ -154,7 +151,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F75960B1FCCC580006CD0C1 /* LaunchScreen.storyboard in Resources */,
-				3F3DB3ED20045E9A007D5F4B /* Spring in Resources */,
 				3F7596081FCCC580006CD0C1 /* Assets.xcassets in Resources */,
 				3F7596061FCCC580006CD0C1 /* Main.storyboard in Resources */,
 			);
